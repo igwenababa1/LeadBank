@@ -1,0 +1,8 @@
+{
+  "name": "Lead",
+  "description": "Next-generation digital private banking with real-time multi-bank linking, official bank card issuance, instant transfers, and wealth vaults.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

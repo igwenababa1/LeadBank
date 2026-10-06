@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <cache-path name="cache_statements" path="statements/" />
+    <cache-path name="cache_receipts" path="receipts/" />
+    <files-path name="files_statements" path="statements/" />
+</paths>
